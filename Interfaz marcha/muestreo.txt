@@ -1,0 +1,8 @@
+from rodilla import main, calculate_angle
+angulos = []
+x = []
+
+y, x = main(angulos, x)
+
+print(y)
+print(x)
